@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Uygulama.Mobile.UI.Uygulama">
+
+
+  <ListView x:Name="lstUygulama" ItemsSource="{Binding .}"
+              VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                SeparatorColor="Maroon"
+                BackgroundColor="#ffffff"
+                IsPullToRefreshEnabled="True"
+                HasUnevenRows="True"
+                Refreshing="OnRefresh">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <TextCell Text="{Binding Data}"  TextColor="#08A8F4"
+               Detail="{Binding Date}" DetailColor="Black"/>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+</ContentPage>
