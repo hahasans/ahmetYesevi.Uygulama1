@@ -1,0 +1,11 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Uygulama.Read.BLL.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Uygulama.Read.BLL.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Uygulama.Read.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Uygulama.Read.Model.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Uygulama.Read.Helper.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Uygulama.Read.Model.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\obj\Debug\Uygulama.Read.BLL.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\obj\Debug\Uygulama.Read.BLL.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.BLL\obj\Debug\Uygulama.Read.BLL.pdb

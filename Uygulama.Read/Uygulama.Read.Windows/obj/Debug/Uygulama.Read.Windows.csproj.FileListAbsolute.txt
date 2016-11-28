@@ -1,0 +1,17 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Windows.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Windows.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Windows.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\obj\Debug\Uygulama.Read.Windows.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\obj\Debug\Uygulama.Read.Windows.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\obj\Debug\Uygulama.Read.Windows.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\obj\Debug\Uygulama.Read.Windows.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\obj\Debug\Uygulama.Read.Windows.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.BLL.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Model.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.BLL.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Model.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Uygulama.Read.Helper.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Uygulama.Read\Uygulama.Read.Windows\obj\Debug\Uygulama.Read.Windows.csprojResolveAssemblyReference.cache
